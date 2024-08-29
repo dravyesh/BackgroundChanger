@@ -1,8 +1,5 @@
-# React + Vite
+Background Changer by react.js  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+: How do you use it? Download node.js / npm. It should be installed on your PC, open terminal or git for Windows. Run these commands.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install Dependencies:- npm install  ->  npm run dev
